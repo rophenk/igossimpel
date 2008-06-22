@@ -1,0 +1,983 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<mm_report>
+	<mm_reportname>	ResultsReport.xml</mm_reportname>
+	<mm_reportdate>09/22/04 11:03:50</mm_reportdate>
+	<mm_reportlocation>C:\\apache\htdocs\projects\gambar\</mm_reportlocation>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_berikelas=name:id_row;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string,name:kelas;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>26</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>38</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>36</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>29</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas.php</mm_file>
+		<mm_linenumber>29</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas1.php</mm_file>
+		<mm_linenumber>64</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas1.php</mm_file>
+		<mm_linenumber>74</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas1.php</mm_file>
+		<mm_linenumber>73</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas1.php</mm_file>
+		<mm_linenumber>67</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[berikelas1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/berikelas1.php</mm_file>
+		<mm_linenumber>67</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cakap_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cakap_ok.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cakap_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cakap_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Skip repetitive links  [Section 508 1194.22(o); WAI/ WCAG1.0 checkpoint 13.6]   -- MANUAL -- Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cakap_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cakap_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cakap_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cakap_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cari.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cari.php</mm_file>
+		<mm_linenumber>4</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[cari.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/cari.php</mm_file>
+		<mm_linenumber>4</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[config.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/config.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Warning: No title tag]]></mm_description>
+		<mm_reportedby>Untitled Documents</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_datakelas=name:id_row;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string,name:kelas;datatype:string, UD_data_wk=name:id_row;datatype:int,name:kelas;datatype:string,name:wali_kelas;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>57</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>57</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>61</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>71</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>64</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelas.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelas.php</mm_file>
+		<mm_linenumber>64</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_datakelas=name:id_row;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string,name:kelas;datatype:string, UD_data_wk=name:id_row;datatype:int,name:kelas;datatype:string,name:wali_kelas;datatype:string, UD_lihatnama=name:row_id;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>63</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>63</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>67</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>77</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>70</mm_linenumber>
+		<mm_description><![CDATA[Skip repetitive links  [Section 508 1194.22(o); WAI/ WCAG1.0 checkpoint 13.6]   -- MANUAL -- Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>70</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[datakelasnilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/datakelasnilai.php</mm_file>
+		<mm_linenumber>70</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[del_sis.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/del_sis.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[del_sis.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/del_sis.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[del_sis.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/del_sis.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>24</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>24</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>37</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>48</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>46</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>40</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[deletesiswa.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/deletesiswa.php</mm_file>
+		<mm_linenumber>40</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[guru_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/guru_ok.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[guru_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/guru_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Skip repetitive links  [Section 508 1194.22(o); WAI/ WCAG1.0 checkpoint 13.6]   -- MANUAL -- Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[guru_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/guru_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[guru_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/guru_ok.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[guru_ok.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/guru_ok.php</mm_file>
+		<mm_linenumber>11</mm_linenumber>
+		<mm_description><![CDATA[Warning: Document uses default title 'Untitled Document']]></mm_description>
+		<mm_reportedby>Untitled Documents</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[html_closing.html]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/html_closing.html</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Warning: No title tag]]></mm_description>
+		<mm_reportedby>Untitled Documents</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[html_opening.html]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/html_opening.html</mm_file>
+		<mm_linenumber>4</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_cakap.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_cakap.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_cakap.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_cakap.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_cakap.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_cakap.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kel.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kel.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_data_siswa=name:idsiswa;datatype:string,name:nama_siswa;datatype:string, UD_datasiskel=name:row_id;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string,name:panggilan;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kel.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kel.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kel.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kel.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kel.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kel.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt1.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt1.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt1.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt2.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_kompt2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_kompt2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup1.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup1.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup1.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup2.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_komptup2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_komptup2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai2.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[in_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/in_nilai2.php</mm_file>
+		<mm_linenumber>17</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>10</mm_linenumber>
+		<mm_description><![CDATA[Non spacer IMG with valid ALT  [Section 508 1194.22(a); WAI/ WCAG1.0 checkpoint 1.1]   -- FAILED -- No ALT defined for image.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Non spacer IMG with valid ALT  [Section 508 1194.22(a); WAI/ WCAG1.0 checkpoint 1.1]   -- FAILED -- No ALT defined for image.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>10</mm_linenumber>
+		<mm_description><![CDATA[Non spacer IMG needs LONGDESC  [Section 508 1194.22(a); WAI/ WCAG1.0 checkpoint 1.1]   -- MANUAL -- Non-spacer image may need a LONGDESC attribute.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Non spacer IMG needs LONGDESC  [Section 508 1194.22(a); WAI/ WCAG1.0 checkpoint 1.1]   -- MANUAL -- Non-spacer image may need a LONGDESC attribute.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>1</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>1</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>5</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>6</mm_linenumber>
+		<mm_description><![CDATA[No auto refresh is used  [Section 508 1194.22(p); WAI/ WCAG1.0 checkpoint 7.4]   -- FAILED -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>9</mm_linenumber>
+		<mm_description><![CDATA[GIFs do not cause the screen to flicker  [Section 508 1194.22(j); WAI/ WCAG1.0 checkpoint 7.1]   -- MANUAL -- The page contains GIF images: Are they causing the screen toflicker? If so, please modify or remove the images.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>9</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>9</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>10</mm_linenumber>
+		<mm_description><![CDATA[Warning: Missing "alt" attribute]]></mm_description>
+		<mm_reportedby>Missing Alt Text</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[index.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/index.php</mm_file>
+		<mm_linenumber>14</mm_linenumber>
+		<mm_description><![CDATA[Warning: Missing "alt" attribute]]></mm_description>
+		<mm_reportedby>Missing Alt Text</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_lihatguru=name:id_row;datatype:int,name:idguru;datatype:string,name:guru;datatype:string,name:pelajaran;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>56</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>56</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>60</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>71</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>70</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>63</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_guru.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_guru.php</mm_file>
+		<mm_linenumber>63</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_lihatnama=name:row_id;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>13</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>26</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>38</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>37</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>29</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[input_nilai2.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/input_nilai2.php</mm_file>
+		<mm_linenumber>29</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_lihatcakap=name:id_row;datatype:int,name:idsiswa;datatype:string,name:m_tuhan;datatype:string,name:eksis;datatype:string,name:potensi;datatype:string,name:gali_info;datatype:string,name:olah_info;datatype:string,name:a_pts;datatype:string,name:pecah;datatype:string,name:kom_lisan;datatype:string,name:kom_tulis;datatype:string,name:krj_sm;datatype:string,name:ident;datatype:string,name:hubung;datatype:string,name:rumus;datatype:string,name:laksana;datatype:string, UD_lihatnama=name:row_id;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>82</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>82</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>86</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>95</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>94</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>89</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputcakap1.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputcakap1.php</mm_file>
+		<mm_linenumber>89</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber></mm_linenumber>
+		<mm_description><![CDATA[Design Note Info: UD_datakeluarga=name:id_row;datatype:int,name:idsiswa;datatype:string,name:panggilan;datatype:string,name:jen_kel;datatype:string,name:tmpt_lahir;datatype:string,name:tgl_lahir;datatype:string,name:bln_lahir;datatype:string,name:thn_lahir;datatype:string,name:agama;datatype:string,name:wn;datatype:string,name:anak_ke;datatype:string,name:sdr_kdg;datatype:string,name:sdr_tiri;datatype:string,name:sdr_angkt;datatype:string,name:stat_ortu;datatype:string,name:bahasa;datatype:string, UD_datasiswa=name:row_id;datatype:int,name:idsiswa;datatype:string,name:nama_siswa;datatype:string]]></mm_description>
+		<mm_reportedby>Design Notes</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>24</mm_linenumber>
+		<mm_description><![CDATA[Color is not essential  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>24</mm_linenumber>
+		<mm_description><![CDATA[Colors are visible  [Section 508 1194.22(c); WAI/ WCAG1.0 checkpoint 2.2]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>37</mm_linenumber>
+		<mm_description><![CDATA[Style sheets should not be necessary  [Section 508 1194.22(d); WAI/ WCAG1.0 checkpoint 6.1]   -- MANUAL -- The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>51</mm_linenumber>
+		<mm_description><![CDATA[Data table should have headers  [Section 508 1194.22(g); WAI/ WCAG1.0 checkpoint 5.1]   -- MANUAL -- The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>49</mm_linenumber>
+		<mm_description><![CDATA[Form is accessible  [Section 508 1194.22(n)]   -- MANUAL -- Make sure the linearized version of the form is still usable.]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>40</mm_linenumber>
+		<mm_description><![CDATA[Use clear language for site's content  [WAI/ WCAG1.0 checkpoint 14.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon></mm_statusicon>
+		<mm_displaystr><![CDATA[inputkeluarga.php]]></mm_displaystr>
+		<mm_file>file:///C|/apache/htdocs/projects/inputkeluarga.php</mm_file>
+		<mm_linenumber>40</mm_linenumber>
+		<mm_description><![CDATA[Clarify natural language usage  [WAI/ WCAG1.0 checkpoint 4.1]   -- MANUAL -- ]]></mm_description>
+		<mm_reportedby>Accessibility</mm_reportedby>
+	</mm_reportitem>
+</mm_report>
